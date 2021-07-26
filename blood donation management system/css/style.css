@@ -1,0 +1,211 @@
+body {
+    background: url(../images/background.jpg);
+    background-size:100% ;
+    background-repeat: repeat-y;
+    background-color: darkgray;
+    background-blend-mode: multiply;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: -30px;
+    padding: 0px;
+    background-color: #ed5555;
+    
+    float: left;
+    width: 105%;
+    margin-bottom: 50px;
+}
+
+li a {
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 30px 80px 30px 40px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #a85252;
+}
+h6
+{
+   
+    text-align: end;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    margin-bottom: 0px
+
+}
+h3{ 
+    
+   
+    margin-top: 5px;
+    text-align: start;
+    font-family: Bradley Hand ITC;
+    color: whitesmoke;
+    margin-bottom: 20px;
+}
+.good{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: whitesmoke;
+    margin-left: 35%;
+    background-color: transparent;
+}
+h1 {
+    margin-top: 50PX;
+    text-align: center;
+    color: whitesmoke;
+    font-family: Algerian;
+}
+
+form{
+    
+    margin-top: 5px;
+    font-size: initial;
+    text-align: end;
+    font-family: initial;
+    margin-bottom:50px ;
+}
+.login{
+   position: relative;
+   bottom: 50px;
+    float: right;
+    margin-top: 10px;
+    font-family: Bradley Hand ITC;
+    background-color: transparent;
+    margin-left: 50%;
+
+    color: whitesmoke;
+    text-align: left;
+}
+
+.comment {
+    margin-top: 20px;
+    float: left;
+    background-color: transparent;
+    width: 40%;
+    height: 435px;
+    font-size: 30px;
+    color: white;
+    text-align:start;
+    border-color: black;
+    border-width: 2px;
+}
+.process{
+    display: inline-block;
+    margin-top:-100px;
+    margin-bottom: 100px;
+    float: left;
+    background-color: transparent;
+    width:50%;
+    height: 300px;
+    font-size: 30px;
+    margin-right: 50%;
+    margin-left: 0;
+    color: white;
+    position: relative;
+    text-align: start;
+    border-color: black;
+}
+.howto
+{
+    position: relative;
+width: 45%;
+float: right;
+display:inline-block;
+margin-top:-300px;
+height: 300px;
+}
+.where{
+    position: relative;
+    margin-top: 0px;
+    float: left;
+    width: 60%;
+    color: whitesmoke;
+    font-family: sans-serif;
+    font-size: 30px;
+    height: 200px;
+}
+.review {
+    text-align: center;
+    float: right;
+    display: inline-block;
+    position: relative;
+    font-size: 30Px;
+    font-family: sans-serif;
+    color: whitesmoke;
+    height: 200px;
+    width: 40%;
+}
+
+.outbox {
+    margin-left: 50%;;
+    width: 50%;
+    border: 2px solid black;
+    overflow: hidden;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+    .footer{
+        position: relative;
+        text-align: center;
+        color: black;
+        width: 100%;
+        font-size: 20px;
+        margin-top: 750px;
+
+    
+    }
+
+.slidebox {
+    width: 6000px;
+    position: relative;
+    animation-name: shalu;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
+.slidebox img {
+    float: left;
+}
+@keyframes shalu {
+    0% {
+        left: 0px;
+    }
+
+    20% {
+        left: 0px;
+    }
+
+    25% {
+        left: -700px;
+    }
+
+    45% {
+        left: -700px;
+    }
+
+    50% {
+        left: -1400px;
+    }
+
+    70% {
+        left: -1400px;
+    }
+
+    75% {
+        left: -2100px;
+    }
+
+    95% {
+        left: -2100px;
+    }
+
+    100% {
+        left: -2800px;
+    }
+    

@@ -1,0 +1,152 @@
+
+             .responsive {
+                width: 100%;
+                height: 100%;    
+            }
+        
+            #d1{
+                height: 20%;
+                margin-top: auto;
+                width: 15%;
+                float: left;
+            }
+             #d2{
+                height: 150%;
+                margin-top: 0.2%;
+                 background-size: 1900px;
+                background-image:url(../images/pin.jpg);
+                 background-repeat: no-repeat;
+                    }
+                    
+             #d3{
+                height: 100%;
+               left: 7%;
+                 top: 80%;
+            }
+           
+            #d4{
+                margin-left: 15.2%;
+                height: 20%;
+                background-image: url(../images/ba.jpg);}
+             .font
+            {
+                font-size: 80px;
+                font-family:cursive;
+                color: rgb(255,140,0);
+                text-shadow: 2px 2px black;
+            }
+             .container 
+            {
+                position:fixed;
+                text-align: center;
+                color: floralwhite;
+            }
+            .container2 
+            {
+                position: absolute;
+                text-align: center;
+                color: bisque;
+            }
+            .container3
+            {
+                position: absolute;
+                text-align: center;
+                
+            }
+            .up
+            {
+                position: absolute;
+                top: 35%;
+                left: 35%;
+                transform: translate(-50%, -50%);
+                
+            }
+             .up2
+            {
+                position: absolute;
+                top: 90%;
+                left: 35%;
+                transform: translate(-50%, -50%);
+            }
+            .up3
+            {
+                position: absolute;
+                top: 172%;
+                left: 35%;
+                transform: translate(-50%, -50%);
+            }
+            .up4
+            {
+                position: absolute;
+                top: 125%;
+                left: 45%;
+                transform: translate(-50%, -50%);
+            }
+            .image{
+                position: absolute;
+                top: 30%;
+                right: 7%;
+                height: 65%;
+                width: 20%;
+                background-repeat: no-repeat;
+            }
+            .image2{
+                position: absolute;
+                top: 105%;
+                right: 7%;
+                height: 65%;
+                width: 20%;
+                background-repeat: no-repeat;}
+            .image3{
+                position: absolute;
+                top: 190%;
+                right: 5%;
+                height: 65%;
+                width: 25%;
+                background-repeat: no-repeat;}
+            .who
+            {
+                font-size: 30px;
+                font-family: cursive;
+                color:darkred;
+                text-shadow: 2px 2px black;
+            }
+             .who2
+            {
+                font-size: 60px;
+                font-family: cursive;
+                color: darkolivegreen;
+                text-shadow: 2px 2px black;
+            }
+            .about{
+                padding-left: 10px;
+                padding-right: 10px;
+                color: mediumblue;
+                font-size: 20px;
+                
+            }
+            #myBtn{
+                padding-left: 20px;
+            }
+            #who{
+                padding-left: 40px;
+                font-family: cursive;
+                font-size: 25px;
+                color: firebrick;
+                text-shadow: 4px 4px black;
+                background-color: antiquewhite;
+            } 
+            #who2{
+                padding-left: 50px;
+                font-family: cursive;
+                font-size: 40px;
+                color: firebrick;
+                background-color: antiquewhite;
+            } 
+             #who3{
+                padding-left: 50px;
+                font-family: cursive;
+                font-size: 40px;
+                color: darkblue;
+            } 
+        

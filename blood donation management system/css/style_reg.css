@@ -1,0 +1,70 @@
+body
+{
+  margin: 0;
+}
+.reg
+{
+  background-color: #dd2c00;
+  position: fixed;
+  height: 100px;
+  width: 100%;
+  top: 0;
+
+}
+.donor_reg{
+  color: white;
+  font-size: 2em;
+  position: absolute;
+  left: 20px;
+}
+.reg_div
+{
+  border: solid black 2px;
+  position: absolute;
+  width: 60%;
+  left: 20%;
+  height: 80%;
+  top: 140px;
+}
+.donor_det
+{
+  font-size: 2em;
+  color: #dd2c00;
+  position: relative;
+  left: 10px;
+  bottom: 10px;
+}
+label
+{
+  position: relative;
+  left: 20px;
+  font-size: 1.5em;
+}
+input
+{
+  position: absolute;
+  left: 500px;
+  width: 300px;
+  height: 20px;
+}
+select
+{
+  position: absolute;
+  left: 500px;
+  width: 300px;
+  height: 20px;
+}
+button
+{
+  width: 20%;
+  position: absolute;
+  left:40%;
+  background-color: #dd2c00;
+  color: white;
+  height: 30px;
+}
+.star
+{
+  color: red;
+  font-size: 40%;
+}
